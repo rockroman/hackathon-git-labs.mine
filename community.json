@@ -6,6 +6,7 @@
         "favorite_language": "CSS",
         "currently_learning": "PHP/ThreeJS"
     },
+ 
     {
         "name": "alissa",
         "course_start": "2020",
@@ -159,5 +160,13 @@
         "course_stage": "StudentP4",
         "favorite_language": "Python",
         "currently_learning": "Flask"
+    },
+    {
+        "name": "roman",
+        "course_start": "2022",
+        "course_stage": "newbie",
+        "favorite_language": "js",
+        "currently_learning": "python"
     }
+    
 ]
